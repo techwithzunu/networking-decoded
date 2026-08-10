@@ -7,5 +7,6 @@ No promotion here — just the notes, organized as the series goes.
 ## Available notes
 
 - [Ports — How Data Finds the Right Service](Ports_Study_Notes.pdf)
+- [Firewall — Your Network's Security Guard](Firewall_Study_Notes.pdf)
 
 More will be added as new topics are covered.
